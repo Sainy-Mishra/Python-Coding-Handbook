@@ -4,8 +4,6 @@ A collection of Python programs and coding exercises covering basic to advanced 
 
 ## 📚 Topics Covered
 
-- Python Basics
-- Variables and Data Types
 - Conditional Statements
 - Loops
 - Strings and Lists
